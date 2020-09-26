@@ -16,20 +16,21 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c16e89-9014-4889-8e5b-770c0c9d17cf" name="Default Changelist" comment="add: front">
+    <list default="true" id="b1c16e89-9014-4889-8e5b-770c0c9d17cf" name="Default Changelist" comment="UPDATE: lc">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/app" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/src/components/TaskList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/src/components/TaskList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/src/views/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/src/views/TaskAbout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/src/views/TaskAbout.vue" afterDir="false" />
     </list>
+    <list id="00558055-6727-4a03-b1c1-3d50b9f83d76" name="Revert &quot;UPDATE: lc&quot;" comment="Revert &quot;UPDATE: lc&quot;&#10;&#10;This reverts commit 76c26495" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +45,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/app" />
+    <option name="RESET_MODE" value="SOFT" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1hNY1aN9bX9xnJl8QO8eE9AKfPU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -65,7 +68,26 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="deploy.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/frontend/app/deploy.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/frontend/app" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.deploy.sh" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +100,10 @@
       <workItem from="1599852804217" duration="1953000" />
       <workItem from="1599888664980" duration="12927000" />
       <workItem from="1600972900950" duration="7675000" />
-      <workItem from="1601052778314" duration="9183000" />
+      <workItem from="1601052778314" duration="12026000" />
+      <workItem from="1601110291038" duration="2137000" />
+      <workItem from="1601116037991" duration="4482000" />
+      <workItem from="1601124310433" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="add: front">
       <created>1599912205600</created>
@@ -87,7 +112,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599912205600</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Фронт закончен, потом добавить графкл и сервак&#10;LC">
+      <created>1601062393402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601062393402</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADD: lc">
+      <created>1601119767272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601119767272</updated>
+    </task>
+    <task id="LOCAL-00004" summary="UPDATE: lc">
+      <created>1601124691969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601124691969</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +144,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -107,28 +165,47 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add: front" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: front" />
+    <MESSAGE value="Фронт закончен, потом добавить графкл и сервак&#10;LC" />
+    <MESSAGE value="ADD: lc" />
+    <MESSAGE value="UPDATE: lc" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE: lc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="733" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600973104586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="733" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600973104586" />
-    <state x="753" y="139" key="RollbackChangesDialog" timestamp="1599913406219">
+    <state x="578" y="2" key="CommitChangelistDialog2" timestamp="1601124932299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="753" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599913406219" />
+    <state x="578" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601124932299" />
+    <state x="151" y="68" key="DiffContextDialog" timestamp="1601124468629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="151" y="68" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601124468629" />
+    <state x="753" y="139" key="RollbackChangesDialog" timestamp="1601124621522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601124621522" />
     <state x="807" y="433" key="VCS.ChangelistChooser" timestamp="1601061323443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601061323443" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599912209503">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601124710552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599912209503" />
-    <state x="918" y="262" width="583" height="588" key="find.popup" timestamp="1601061866512">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601124710552" />
+    <state x="654" y="172" key="VcsDiffUtil.ChangesDialog" timestamp="1601124666921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="918" y="262" width="583" height="588" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601061866512" />
+    <state x="654" y="172" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601124666921" />
+    <state x="918" y="262" width="583" height="588" key="find.popup" timestamp="1601115607172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="918" y="262" width="583" height="588" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601115607172" />
+    <state x="716" y="383" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601124351209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="383" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601124351209" />
   </component>
 </project>
