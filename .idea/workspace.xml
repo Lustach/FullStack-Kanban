@@ -25,10 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c16e89-9014-4889-8e5b-770c0c9d17cf" name="Default Changelist" comment="UPDATE: lc">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app" afterDir="false" />
-    </list>
+    <list default="true" id="b1c16e89-9014-4889-8e5b-770c0c9d17cf" name="Default Changelist" comment="UPDATE: lc" />
     <list id="00558055-6727-4a03-b1c1-3d50b9f83d76" name="Revert &quot;UPDATE: lc&quot;" comment="Revert &quot;UPDATE: lc&quot;&#10;&#10;This reverts commit 76c26495" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +100,7 @@
       <workItem from="1601110291038" duration="2137000" />
       <workItem from="1601116037991" duration="4482000" />
       <workItem from="1601124310433" duration="2089000" />
+      <workItem from="1601128534020" duration="389000" />
     </task>
     <task id="LOCAL-00001" summary="add: front">
       <created>1599912205600</created>
@@ -139,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601125050858</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <created>1601128681891</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601128681891</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +179,8 @@
     <MESSAGE value="Фронт закончен, потом добавить графкл и сервак&#10;LC" />
     <MESSAGE value="ADD: lc" />
     <MESSAGE value="UPDATE: lc" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE: lc" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="733" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600973104586">
@@ -189,18 +195,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="151" y="68" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601124468629" />
-    <state x="753" y="139" key="RollbackChangesDialog" timestamp="1601124621522">
+    <state x="753" y="139" key="RollbackChangesDialog" timestamp="1601128833570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="753" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601124621522" />
+    <state x="753" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601128833570" />
     <state x="807" y="433" key="VCS.ChangelistChooser" timestamp="1601061323443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601061323443" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601125052703">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601128711185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601125052703" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601128711185" />
     <state x="654" y="172" key="VcsDiffUtil.ChangesDialog" timestamp="1601124666921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
